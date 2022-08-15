@@ -1,0 +1,25 @@
+section{ 
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+#style{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    margin: 30px;
+
+}
+body{
+    color: rgb(66, 131, 151);
+    text-align: center;
+} h1{ color: black;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+article{
+    background-color: rgb(243, 223, 47);
+    padding: 10px;
+} 
+header{
+    background-image: url(coronavirus-ms-1024x536.jpg);
+    text-align: left;
+
+}
